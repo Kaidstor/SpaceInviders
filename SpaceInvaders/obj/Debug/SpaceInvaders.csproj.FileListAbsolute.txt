@@ -1,0 +1,7 @@
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\админ\Downloads\spaceinvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb

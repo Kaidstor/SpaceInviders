@@ -1,0 +1,23 @@
+﻿Menu:
+- new game
+- resume game
+- options - difficutly level
+- rules
+- exit: when exiting - show goodbye message, score/alliens killed, time played(keep in mind pause mode shouldn't count)
+
+GameObject
+- color
+
+Aliens:
+- да стрелят
+- да слизат надолу
+- life
+- gifts: ProduceObjects()
+
+Collisions:
+- сблъсък на projectile с player и със стената
+
+Projectile:
+- RespondToCollision()
+- new projectile type(s)
+
